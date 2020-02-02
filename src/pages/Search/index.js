@@ -1,7 +1,9 @@
 import React from 'react';
 
+import api from '../../services/api';
+
 // import { Container } from './styles';
 
 export default function Search() {
-  return <h1>Faça sua busca</h1>;
+  return <h1>Busca...</h1>;
 }
